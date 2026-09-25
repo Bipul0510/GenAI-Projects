@@ -1,4 +1,4 @@
-# Research Paper RAG Assistant
+#Research Paper RAG Assistant
 
 A beginner-friendly Retrieval-Augmented Generation (RAG) application that answers questions about three foundational AI papers:
 
